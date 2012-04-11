@@ -3,6 +3,6 @@
 - initialization files
 - pseudo config less systems
 - shell as development language
--- spaces in paths
--- SMF
--- 21sh implementation
+- - spaces in paths
+- - SMF
+- - 21sh implementation
