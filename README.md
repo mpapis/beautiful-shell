@@ -1,8 +1,15 @@
-# Linux and the Shell in the 21st Century
+---
+title: Beautiful shell
+---
 
-- initialization files
-- pseudo configless systems
-- shell as development language
-- - spaces in paths
-- - SMF
-- - 21st Shell Implementation
+# Introduction
+
+Hi,
+
+My name is Michal Papis, I got a lot of experience in writing shell code maintaining
+[RVM](http://rvm.io). I ant to share that experience with outside word so here it is.
+I will put in here my notes on how you can make shell functional and beautiful.
+
+Enjoy,
+Michal
+
